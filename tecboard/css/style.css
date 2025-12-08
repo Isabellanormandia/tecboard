@@ -27,13 +27,13 @@ body{
 }
 
 h1{
-    font-size: 85px;
+    font-size: 64px;
     font-family: "Unbounded", sans-serif;
 
 }
 
 p{
-    font-size: 32px;
+    font-size: 24px;
     font-family:"Poppins", sans-serif;
 
 }
@@ -44,7 +44,6 @@ h1 span {
 a{
     color:#FFFFFF;
     font-family: "Poppins", sans-serif;
-    font-size: 32px;
+    font-size: 24px;
     text-decoration: none;
-
 }
