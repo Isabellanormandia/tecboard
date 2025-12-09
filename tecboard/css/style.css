@@ -26,15 +26,25 @@ body{
     color:#FFFFFF;
 }
 
+header img{
+    display: block;
+    margin: 75px 0 0 360px;
+}
+
+
 h1{
     font-size: 64px;
     font-family: "Unbounded", sans-serif;
+    text-align: center;
+    margin-top: 60px;
 
 }
 
 p{
     font-size: 24px;
     font-family:"Poppins", sans-serif;
+    text-align: center;
+    margin-top: 24px;
 
 }
 h1 span {
@@ -53,4 +63,12 @@ a{
     text-align: center ;
     line-height: 66px;
     border-radius: 36px;
+    margin:40px auto;
+}
+
+section img{
+    display: block;
+    width: 795px;
+    height: 452px;
+    margin: 0 auto;
 }
