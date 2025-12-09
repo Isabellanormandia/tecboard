@@ -46,4 +46,11 @@ a{
     font-family: "Poppins", sans-serif;
     font-size: 24px;
     text-decoration: none;
+    background-color: #9747FF;
+    width: 340px;
+    height: 66px;
+    display: block;
+    text-align: center ;
+    line-height: 66px;
+    border-radius: 36px;
 }
